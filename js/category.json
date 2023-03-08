@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"Romance",
+        "img":{
+            "src":"romance.jpg",
+            "alt":"romanceBook"
+        }
+    },
+    {
+        "id":2,
+        "name":"Mystery",
+        "img":{
+            "src":"mystery.jpg",
+            "alt":"mysteryBook"
+        }
+    },
+    {
+        "id":3,
+        "name":"Fantasy",
+        "img":{
+            "src":"fantasy.jpg",
+            "alt":"fantasyBook"
+        }
+    },
+    {
+        "id":4,
+        "name":"Horror",
+        "img":{
+            "src":"horror.jpg",
+            "alt":"horrorBook"
+        }
+    }
+]

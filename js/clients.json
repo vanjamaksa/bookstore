@@ -1,0 +1,32 @@
+[
+    {
+        "comment":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+        "name":"Damon Salvatore",
+        "position":"Director",
+        "src":"client1.jpg"
+    },
+    {
+        "comment":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+        "name":"Elena Gilbert",
+        "position":"Director's assistant",
+        "src":"client2.jpg"
+    },
+    {
+        "comment":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+        "name":"Klaus Mikaelson",
+        "position":"Menager",
+        "src":"client3.jfif"
+    },
+    {
+        "comment":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+        "name":"Caroline Forbs",
+        "position":"Menager's assistant",
+        "src":"client4.jpg"
+    },
+    {
+        "comment":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+        "name":"Bonie Benet",
+        "position":"",
+        "src":"client5.jpg"
+    }
+]

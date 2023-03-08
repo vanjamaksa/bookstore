@@ -1,0 +1,170 @@
+[
+    {
+        "img":{
+            "src":"romance.jpg",
+            "alt":"romanceBook"
+        },
+        "name":"Me before you",
+        "author":"Jojo Moyes",
+        "category":1,
+        "price": {
+            "old":15.25,
+            "new":12.00
+        },
+        "status":"New"
+    },
+    {
+        "img":{
+            "src":"romance1.jpg",
+            "alt":"romance1Book"
+        },
+        "name":"It ends with us",
+        "author":"Colleen Hoover",
+        "category":1,
+        "price": {
+            "old":null,
+            "new":12.00
+        },
+        "status":"New"
+    },
+    {
+        "img":{
+            "src":"romance2.jpg",
+            "alt":"romance2Book"
+        },
+        "name":"Identity",
+        "author":"Nora Roberts",
+        "category":1,
+        "price": {
+            "old":17.25,
+            "new":10.00
+        },
+        "status":"New"
+    },
+    {
+        "img":{
+            "src":"mystery.jpg",
+            "alt":"mysteryBook"
+        },
+        "name":"The outsider",
+        "author":"Stephen King",
+        "category":2,
+        "price": {
+            "old":17.25,
+            "new":15.00
+        },
+        "status":null
+    },
+    {
+        "img":{
+            "src":"mystery1.jpg",
+            "alt":"mystery1Book"
+        },
+        "name":"The violin conspiracy",
+        "author":"Brendan Slocumnb",
+        "category":2,
+        "price": {
+            "old":null,
+            "new":12.00
+        },
+        "status":null
+    },
+    {
+        "img":{
+            "src":"mystery2.jpg",
+            "alt":"mystery2Book"
+        },
+        "name":"Billy Summers",
+        "author":"Stephen King",
+        "category":2,
+        "price": {
+            "old":null,
+            "new":12.00
+        },
+        "status":"Sale"
+    },
+    {
+        "img":{
+            "src":"fantasy.jpg",
+            "alt":"fantasyBook"
+        },
+        "name":"Harry Potter and the Deathly Hallows",
+        "author":"J.K. Rowling",
+        "category":3,
+        "price": {
+            "old":null,
+            "new":20.00
+        },
+        "status":"Sale"
+    },
+    {
+        "img":{
+            "src":"fantasy1.jpg",
+            "alt":"fantasy1Book"
+        },
+        "name":"Harry Potter and the Cursed Child",
+        "author":"J.K. Rowling",
+        "category":3,
+        "price": {
+            "old":null,
+            "new":20.00
+        },
+        "status":null
+    },
+    {
+        "img":{
+            "src":"fantasy2.jpg",
+            "alt":"fantasy2Book"
+        },
+        "name":"The Hobbitt",
+        "author":"J.R. Tolkien",
+        "category":3,
+        "price": {
+            "old":15.25,
+            "new":12.00
+        },
+        "status":"Sale"
+    },
+    {
+        "img":{
+            "src":"horror.jpg",
+            "alt":"horrorBook"
+        },
+        "name":"IT",
+        "author":"Stephen King",
+        "category":4,
+        "price": {
+            "old":15.25,
+            "new":12.00
+        },
+        "status":"New"
+    },
+    {
+        "img":{
+            "src":"horror1.jpg",
+            "alt":"horror1Book"
+        },
+        "name":"The exorcist",
+        "author":"William Peter Blatty",
+        "category":4,
+        "price": {
+            "old":null,
+            "new":15.25
+        },
+        "status":"Sale"
+    },
+    {
+        "img":{
+            "src":"horror2.jpg",
+            "alt":"horror2Book"
+        },
+        "name":"Pet sematary",
+        "author":"Stephen King",
+        "category":4,
+        "price": {
+            "old":15.25,
+            "new":12.00
+        },
+        "status":null
+    }
+]
